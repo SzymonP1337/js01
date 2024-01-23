@@ -1,0 +1,9 @@
+body {
+    background-image: radial-gradient(rgb(140, 210, 243), rgb(18, 18, 211));
+    font-family: Arial;
+    font-size: 20 px;
+    color: rgb(233, 242, 245);
+    text-shadow: rgb(48, 209, 209) 2px 2 px;
+    text-align: center;
+    margin-left: auto;
+}
